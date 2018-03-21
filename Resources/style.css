@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background-image: image("./Resources/the-flatiron-building.png");
+  background-image: url("./Resources/the-flatiron-building.png");
   font-size: 18px;
   color: white;
 }
@@ -31,7 +31,7 @@ p {
 }
 
 .mid {
-  background-image: image("./Resources/the-flatiron-building.png");
+  background-image: url("./Resources/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
   color: white;
